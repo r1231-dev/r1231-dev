@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="mailto:vigneshvishnu766 @gmail.com">
+<a href="mailto:rajan.thetechpro @gmail.com">
 <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
