@@ -35,7 +35,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/rajan-s-159b36396">
+<a href="https://www.linkedin.com/in/rajan-s-159b36396/">
 <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
